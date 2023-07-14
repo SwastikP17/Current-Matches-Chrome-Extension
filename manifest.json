@@ -1,0 +1,11 @@
+{
+    "name":"Match extension",
+    "version":"1.0.0.0",
+    "description":"Give the update of live matches",
+    "manifest_version":3,
+    "author":"Swastik Pandey",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Match Extension"
+    }
+}
